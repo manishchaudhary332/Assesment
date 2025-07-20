@@ -741,7 +741,7 @@ body {
     .section-1 .left .doctor img{
         
         height: 300px;
-        margin-left:-150px;
+        margin-left:-170px;
     }
     .white-box-content1{
         display: none;
@@ -758,11 +758,11 @@ body {
         background-color:#F8943F;
         font-weight: 500;
     }
-    .sectionbottom{
+    /* .sectionbottom{
         overflow: hidden;
         position: absolute;
-        top: 57%;
-    }
+        top: 72%;
+    } */
     .section-1 .right{
         width: 100%;
         /* padding: 20px; */
